@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+/* sempre lê de cima pra baixo 
+com força */
+#my-title ,
+#my-title strong {
+    color:gray;
+    
+    }
+h1 {
+
+color:antiquewhite;
+font-family: 'Rubik', sans-serif;
+}
+body h1 {
+   /*  sobre cores,o html sempre vai priorizar o que está escrito na parte html,a força do css vem em segundo */
+    color:red;
+}
+
+* {
+color:crimson;
+
+}
